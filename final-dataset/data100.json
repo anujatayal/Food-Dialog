@@ -1,0 +1,4490 @@
+{
+    "SNG0.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "pasta",
+                    "foodWeight": "1",
+                    "metric": "Spaghettio's",
+                    "nutrient": "salt",
+                    "type": "ready to heat with cream sauce and meat whole grain"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "665.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "can i eat pasta if I have a bad heart ?",
+                "metadata": {}
+            },
+            {
+                "text": "Can you describe your pasta for me ?",
+                "metadata": {}
+            },
+            {
+                "text": "its ready to heat with cream sauce and meat whole grain",
+                "metadata": {}
+            },
+            {
+                "text": "what is the serving size for the pasta ?",
+                "metadata": {}
+            },
+            {
+                "text": "it is about 1 Spaghettio's",
+                "metadata": {}
+            },
+            {
+                "text": "pasta has 665.0 mg of salt .",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG1.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "ham",
+                    "foodWeight": "1",
+                    "metric": "oz,",
+                    "nutrient": "salt",
+                    "type": "ground patty smoked or cured"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "212.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "is ham okay for heart patients ?",
+                "metadata": {}
+            },
+            {
+                "text": "Are you going for a particular type of ham ?",
+                "metadata": {}
+            },
+            {
+                "text": "I am eating ground patty smoked or cured ham",
+                "metadata": {}
+            },
+            {
+                "text": "how much ham are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "its 1 oz,",
+                "metadata": {}
+            },
+            {
+                "text": "The salt content in ham is roughly 212.0 mg. ",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG2.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "chicken",
+                    "cook": "fried cooked",
+                    "foodWeight": "1.0",
+                    "metric": "unit",
+                    "nutrient": "salt",
+                    "type": "meat only neck broilers or fryers"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "6.93"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "Can heart failure patients eat chicken ?",
+                "metadata": {}
+            },
+            {
+                "text": "Can you tell me what chicken are you enjoying ?",
+                "metadata": {}
+            },
+            {
+                "text": "My meal consists of meat only neck broilers or fryers chicken",
+                "metadata": {}
+            },
+            {
+                "text": "how do you plan to cook your chicken ?",
+                "metadata": {}
+            },
+            {
+                "text": "it is fried cooked",
+                "metadata": {}
+            },
+            {
+                "text": "What your chicken portion like ? ",
+                "metadata": {}
+            },
+            {
+                "text": "You'll find that the chicken is around 1.0 unit in weight.",
+                "metadata": {}
+            },
+            {
+                "text": "The salt content in chicken is roughly 6.93 mg. ",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG3.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "chicken or turkey and vegetables including carrots",
+                    "foodWeight": "163",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "soy based sauce and or dark green leafy no potatoes broccoli"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "673.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "I would like to cook some chicken or turkey and vegetables including carrots tonight",
+                "metadata": {}
+            },
+            {
+                "text": "Can you tell me what chicken or turkey and vegetables including carrots are you enjoying ?",
+                "metadata": {}
+            },
+            {
+                "text": "I am eating soy based sauce and or dark green leafy no potatoes broccoli chicken or turkey and vegetables including carrots",
+                "metadata": {}
+            },
+            {
+                "text": "how much chicken or turkey and vegetables including carrots are you using today ?",
+                "metadata": {}
+            },
+            {
+                "text": "chicken or turkey and vegetables including carrots is around 163 g",
+                "metadata": {}
+            },
+            {
+                "text": "You'll be consuming around 673.0 mg of salt with that chicken or turkey and vegetables including carrots.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG4.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "garlic sauce",
+                    "foodWeight": "28",
+                    "metric": "g",
+                    "nutrient": "salt"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "162.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "is garlic sauce healthy ?",
+                "metadata": {}
+            },
+            {
+                "text": "how much garlic sauce are you using today ?",
+                "metadata": {}
+            },
+            {
+                "text": "I like having 28 g of garlic sauce",
+                "metadata": {}
+            },
+            {
+                "text": "you will find about 162.0 mg of salt in garlic sauce",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG5.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "cereals",
+                    "foodWeight": "100",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "dry minute cook time cream of wheat"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "7.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "can i eat cereals if I have a bad heart ?",
+                "metadata": {}
+            },
+            {
+                "text": "Are you going for a particular type of cereals ?",
+                "metadata": {}
+            },
+            {
+                "text": "dry minute cook time cream of wheat cereals are what's on my plate at the moment.",
+                "metadata": {}
+            },
+            {
+                "text": "how much cereals are you using today ?",
+                "metadata": {}
+            },
+            {
+                "text": "dont know",
+                "metadata": {}
+            },
+            {
+                "text": "cereals has 7.0 mg of salt .",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG6.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "rabbit",
+                    "cook": "cooked",
+                    "foodWeight": "1",
+                    "metric": "leg",
+                    "nutrient": "salt",
+                    "type": "ns as to domestic or wild"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "49.8"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "What is the salt content in cooked rabbit ?",
+                "metadata": {}
+            },
+            {
+                "text": "Could you share what is in your rabbit ?",
+                "metadata": {}
+            },
+            {
+                "text": "ns as to domestic or wild rabbit",
+                "metadata": {}
+            },
+            {
+                "text": "how much rabbit are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "1 leg .",
+                "metadata": {}
+            },
+            {
+                "text": "You'll be consuming around 49.8 mg of salt with that rabbit.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG7.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "egg salad",
+                    "foodWeight": "1",
+                    "metric": "cup",
+                    "nutrient": "salt",
+                    "type": "made with mayonnaise"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "839.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "what type of egg salad can I eat ?",
+                "metadata": {}
+            },
+            {
+                "text": "What is your preference when it comes to egg salad ?",
+                "metadata": {}
+            },
+            {
+                "text": "The egg salad is made with mayonnaise",
+                "metadata": {}
+            },
+            {
+                "text": "how much egg salad are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "1 cup .",
+                "metadata": {}
+            },
+            {
+                "text": "That egg salad contains a modest 839.0 mg of salt.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG8.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "sugars",
+                    "foodWeight": "3.0",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "maple"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "0.33"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "how much salt in sugars ?",
+                "metadata": {}
+            },
+            {
+                "text": "Can you tell me what sugars are you enjoying ?",
+                "metadata": {}
+            },
+            {
+                "text": "My meal consists of maple sugars",
+                "metadata": {}
+            },
+            {
+                "text": "Can you share what is the size of sugars are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "3.0 g .",
+                "metadata": {}
+            },
+            {
+                "text": "That sugars's salt level is at 0.33 mg",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG9.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "pretzels",
+                    "foodWeight": "100",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "coated or flavored ready to eat soft"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "896.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "how much pretzels is safe for me to eat ?",
+                "metadata": {}
+            },
+            {
+                "text": "Can you describe the type of pretzels you are having ?",
+                "metadata": {}
+            },
+            {
+                "text": "it is coated or flavored ready to eat soft",
+                "metadata": {}
+            },
+            {
+                "text": "how much pretzels are you using today ?",
+                "metadata": {}
+            },
+            {
+                "text": "I am having 100 g of pretzels",
+                "metadata": {}
+            },
+            {
+                "text": "The salt content in pretzels is roughly 896.0 mg. ",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG10.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "cake or cupcake",
+                    "foodWeight": "15",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "without icing or filling spice"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "30.6"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "what is the best way to eat cake or cupcake ?",
+                "metadata": {}
+            },
+            {
+                "text": "what kind of cake or cupcake ?",
+                "metadata": {}
+            },
+            {
+                "text": "it is without icing or filling spice",
+                "metadata": {}
+            },
+            {
+                "text": "how much cake or cupcake are you using today ?",
+                "metadata": {}
+            },
+            {
+                "text": "it is about 15 g",
+                "metadata": {}
+            },
+            {
+                "text": "You'll be consuming around 30.6 mg of salt with that cake or cupcake.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG11.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "beef",
+                    "part": "ground",
+                    "cook": "broiled cooked",
+                    "foodWeight": "3",
+                    "metric": "oz",
+                    "nutrient": "salt",
+                    "type": "patty lean meat fat"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "56.1"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "What is the salt content in broiled cooked beef ?",
+                "metadata": {}
+            },
+            {
+                "text": "Can you describe your beef for me ?",
+                "metadata": {}
+            },
+            {
+                "text": "The beef is patty lean meat fat",
+                "metadata": {}
+            },
+            {
+                "text": "can you tell which part of beef are you eating?",
+                "metadata": {}
+            },
+            {
+                "text": "I am eating ground beef .",
+                "metadata": {}
+            },
+            {
+                "text": "how much beef are you using today ?",
+                "metadata": {}
+            },
+            {
+                "text": "I am having 3 oz of beef",
+                "metadata": {}
+            },
+            {
+                "text": "You'll be consuming around 56.1 mg of salt with that beef.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG12.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "bacardi cocktail",
+                    "foodWeight": "1",
+                    "metric": "drink",
+                    "nutrient": "salt"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "173.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "can i eat bacardi cocktail if I have a bad heart ?",
+                "metadata": {}
+            },
+            {
+                "text": "what is the serving size for the bacardi cocktail ?",
+                "metadata": {}
+            },
+            {
+                "text": "The bacardi cocktail weighs approximately 1 drink",
+                "metadata": {}
+            },
+            {
+                "text": "you will find about 173.0 mg of salt in bacardi cocktail",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG13.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "sweet potato",
+                    "cook": "baked",
+                    "foodWeight": "150",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "made with margarine peel not eaten"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "321.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "can my partner with heart failure eat sweet potato ?",
+                "metadata": {}
+            },
+            {
+                "text": "can you tell me more information about sweet potato ?",
+                "metadata": {}
+            },
+            {
+                "text": "I've got some delicious made with margarine peel not eaten sweet potato on my plate",
+                "metadata": {}
+            },
+            {
+                "text": "can you tell me how your sweet potato is cooked ?",
+                "metadata": {}
+            },
+            {
+                "text": "it is baked",
+                "metadata": {}
+            },
+            {
+                "text": "Can you share what is the size of sweet potato are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "150 g .",
+                "metadata": {}
+            },
+            {
+                "text": "That sweet potato's salt level is at 321.0 mg",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG14.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "oatmeal",
+                    "foodWeight": "1",
+                    "metric": "oz,",
+                    "nutrient": "salt",
+                    "type": "no added fat made with milk plain instant"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "20.7"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "can my partner with heart failure eat oatmeal ?",
+                "metadata": {}
+            },
+            {
+                "text": "Can you describe your oatmeal for me ?",
+                "metadata": {}
+            },
+            {
+                "text": "I've got some delicious no added fat made with milk plain instant oatmeal on my plate",
+                "metadata": {}
+            },
+            {
+                "text": "What your oatmeal portion like ? ",
+                "metadata": {}
+            },
+            {
+                "text": "1 oz, .",
+                "metadata": {}
+            },
+            {
+                "text": "You can expect to have approximately 20.7 mg of salt in that oatmeal.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG15.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "cheese",
+                    "foodWeight": "38.0",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "camembert"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "320.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "is cheese healthy ?",
+                "metadata": {}
+            },
+            {
+                "text": "What is your preference when it comes to cheese ?",
+                "metadata": {}
+            },
+            {
+                "text": "I've got some delicious camembert cheese on my plate",
+                "metadata": {}
+            },
+            {
+                "text": "how much cheese are you using today ?",
+                "metadata": {}
+            },
+            {
+                "text": "You're looking at a cheese with a weight of approximately 38.0 g",
+                "metadata": {}
+            },
+            {
+                "text": "That cheese's salt level is at 320.0 mg",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG16.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "chicken thigh",
+                    "cook": "fried",
+                    "foodWeight": "28.35",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "from fast food skin coating eaten coated"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "212.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "how much chicken thigh is safe for me to eat ?",
+                "metadata": {}
+            },
+            {
+                "text": "Do you know what kind of chicken thigh are you having ?",
+                "metadata": {}
+            },
+            {
+                "text": "It's a hearty meal with from fast food skin coating eaten coated chicken thigh",
+                "metadata": {}
+            },
+            {
+                "text": "how are you cooking your chicken thigh ?",
+                "metadata": {}
+            },
+            {
+                "text": "The chicken thigh is fried",
+                "metadata": {}
+            },
+            {
+                "text": "how much chicken thigh are you using today ?",
+                "metadata": {}
+            },
+            {
+                "text": "You'll find that the chicken thigh is around 28.35 g in weight.",
+                "metadata": {}
+            },
+            {
+                "text": "That chicken thigh contains a modest 212.0 mg of salt.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG17.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "seeds",
+                    "cook": "roasted",
+                    "foodWeight": "1.0",
+                    "metric": "oz",
+                    "nutrient": "salt",
+                    "type": "without salt whole pumpkin and squash seeds"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "5.1"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "is it safe for me to eat seeds ?",
+                "metadata": {}
+            },
+            {
+                "text": "What kind of seeds did you decide on eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "its without salt whole pumpkin and squash seeds",
+                "metadata": {}
+            },
+            {
+                "text": "how are you cooking your seeds ?",
+                "metadata": {}
+            },
+            {
+                "text": "it is roasted",
+                "metadata": {}
+            },
+            {
+                "text": "What your seeds portion like ? ",
+                "metadata": {}
+            },
+            {
+                "text": "The seeds weighs approximately 1.0 oz",
+                "metadata": {}
+            },
+            {
+                "text": "You can expect to have approximately 5.1 mg of salt in that seeds.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG18.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "pork chop",
+                    "cook": "cooked",
+                    "foodWeight": "98",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "lean only eaten smoked or cured"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "1210.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "can I eat pork chop after I eat my medicine ?",
+                "metadata": {}
+            },
+            {
+                "text": "Can you describe your pork chop for me ?",
+                "metadata": {}
+            },
+            {
+                "text": "its lean only eaten smoked or cured",
+                "metadata": {}
+            },
+            {
+                "text": "how is pork chop cooked ?",
+                "metadata": {}
+            },
+            {
+                "text": "its cooked",
+                "metadata": {}
+            },
+            {
+                "text": "how much pork chop are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "it is about 98 g",
+                "metadata": {}
+            },
+            {
+                "text": "That pork chop contains a modest 1210.0 mg of salt.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG19.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "beverages",
+                    "cook": "coffee",
+                    "foodWeight": "1",
+                    "metric": "cup",
+                    "nutrient": "salt",
+                    "type": "milk based mocha iced ready to drink"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "82.2"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "is beverages okay for heart patients ?",
+                "metadata": {}
+            },
+            {
+                "text": "can you tell me more information about beverages ?",
+                "metadata": {}
+            },
+            {
+                "text": "I am eating milk based mocha iced ready to drink beverages",
+                "metadata": {}
+            },
+            {
+                "text": "how do you plan to cook your beverages ?",
+                "metadata": {}
+            },
+            {
+                "text": "its coffee",
+                "metadata": {}
+            },
+            {
+                "text": "Can you share what is the size of beverages are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "1 cup .",
+                "metadata": {}
+            },
+            {
+                "text": "That beverages contains a modest 82.2 mg of salt.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG20.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "applesauce with bananas",
+                    "foodWeight": "113",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "strained baby food"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "3.39"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "is it okay to eat applesauce with bananas ?",
+                "metadata": {}
+            },
+            {
+                "text": "What kind of applesauce with bananas did you decide on eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "It's a hearty meal with strained baby food applesauce with bananas",
+                "metadata": {}
+            },
+            {
+                "text": "how much applesauce with bananas are you using today ?",
+                "metadata": {}
+            },
+            {
+                "text": "I am having 113 g of applesauce with bananas",
+                "metadata": {}
+            },
+            {
+                "text": "You can expect to have approximately 3.39 mg of salt in that applesauce with bananas.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG21.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "burrito with meat and beans",
+                    "foodWeight": "1",
+                    "metric": "burrito,",
+                    "nutrient": "salt",
+                    "type": "from fast food"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "1250.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "is burrito with meat and beans okay for heart patients ?",
+                "metadata": {}
+            },
+            {
+                "text": "Can you tell me what burrito with meat and beans are you enjoying ?",
+                "metadata": {}
+            },
+            {
+                "text": "My meal consists of from fast food burrito with meat and beans",
+                "metadata": {}
+            },
+            {
+                "text": "how much burrito with meat and beans are you using today ?",
+                "metadata": {}
+            },
+            {
+                "text": "You'll find that the burrito with meat and beans is around 1 burrito, in weight.",
+                "metadata": {}
+            },
+            {
+                "text": "That burrito with meat and beans's salt level is at 1250.0 mg",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG22.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "squab",
+                    "cook": "raw",
+                    "foodWeight": "100",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "meat and skin"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "54.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "how much salt in squab ?",
+                "metadata": {}
+            },
+            {
+                "text": "What is your preference when it comes to squab ?",
+                "metadata": {}
+            },
+            {
+                "text": "Tonight, it's all about meat and skin squab",
+                "metadata": {}
+            },
+            {
+                "text": "what is the quantity of squab ?",
+                "metadata": {}
+            },
+            {
+                "text": "i dont understand",
+                "metadata": {}
+            },
+            {
+                "text": "The salt content in squab is roughly 54.0 mg. ",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG23.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "pasta with cream sauce",
+                    "foodWeight": "170",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "ready to heat and added vegetables seafood"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "592.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "can people with bad heart eat pasta with cream sauce ?",
+                "metadata": {}
+            },
+            {
+                "text": "What kind of pasta with cream sauce did you decide on eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "Tonight, it's all about ready to heat and added vegetables seafood pasta with cream sauce",
+                "metadata": {}
+            },
+            {
+                "text": "what is the serving size for the pasta with cream sauce ?",
+                "metadata": {}
+            },
+            {
+                "text": "it is about 170 g",
+                "metadata": {}
+            },
+            {
+                "text": "pasta with cream sauce has 592.0 mg of salt .",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG24.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "tea",
+                    "cook": "hot",
+                    "foodWeight": "240",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "decaffeinated black leaf"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "7.2"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "What is the salt content in tea ?",
+                "metadata": {}
+            },
+            {
+                "text": "Do you know what kind of tea are you having ?",
+                "metadata": {}
+            },
+            {
+                "text": "I am eating decaffeinated black leaf tea",
+                "metadata": {}
+            },
+            {
+                "text": "do you know how tea is cooked ?",
+                "metadata": {}
+            },
+            {
+                "text": "it is hot tea",
+                "metadata": {}
+            },
+            {
+                "text": "how much tea are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "tea is around 240 g",
+                "metadata": {}
+            },
+            {
+                "text": "You can expect to have approximately 7.2 mg of salt in that tea.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG25.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "chimichanga with chicken",
+                    "foodWeight": "1",
+                    "metric": "cup",
+                    "nutrient": "salt"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "953.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "what is the nutritional composition of chimichanga with chicken ?",
+                "metadata": {}
+            },
+            {
+                "text": "how much chimichanga with chicken are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "chimichanga with chicken is around 1 cup",
+                "metadata": {}
+            },
+            {
+                "text": "You'll be consuming around 953.0 mg of salt with that chimichanga with chicken.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG26.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "muffin",
+                    "foodWeight": "58",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "with raisins oat bran"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "235.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "is it safe for me to eat muffin ?",
+                "metadata": {}
+            },
+            {
+                "text": "What kind of muffin did you decide on eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "with raisins oat bran muffin are on the menu for me tonight.",
+                "metadata": {}
+            },
+            {
+                "text": "what is the quantity of muffin ?",
+                "metadata": {}
+            },
+            {
+                "text": "I like having 58 g of muffin",
+                "metadata": {}
+            },
+            {
+                "text": "you will find about 235.0 mg of salt in muffin",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG27.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "beef",
+                    "cook": "braised cooked",
+                    "foodWeight": "3.0",
+                    "metric": "oz",
+                    "nutrient": "salt",
+                    "type": "choice trimmed to fat separable lean and fat top round round"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "38.2"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "I am making beef tonight",
+                "metadata": {}
+            },
+            {
+                "text": "Do you know what kind of beef are you having ?",
+                "metadata": {}
+            },
+            {
+                "text": "choice trimmed to fat separable lean and fat top round round",
+                "metadata": {}
+            },
+            {
+                "text": "can you tell me how your beef is cooked ?",
+                "metadata": {}
+            },
+            {
+                "text": "it is braised cooked beef",
+                "metadata": {}
+            },
+            {
+                "text": "Can you share what is the size of beef are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "I am having 3.0 oz of beef",
+                "metadata": {}
+            },
+            {
+                "text": "You'll be consuming around 38.2 mg of salt with that beef.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG28.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "game meat",
+                    "part": "steak",
+                    "cook": "broiled cooked",
+                    "animal": "deer",
+                    "foodWeight": "100",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "separable lean only top round"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "45.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "can i eat game meat if I have a bad heart ?",
+                "metadata": {}
+            },
+            {
+                "text": "what type of meat are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "i am eating deer game meat .",
+                "metadata": {}
+            },
+            {
+                "text": "Could you share what is in your game meat ?",
+                "metadata": {}
+            },
+            {
+                "text": "separable lean only top round game meat are on the menu for me tonight.",
+                "metadata": {}
+            },
+            {
+                "text": "how are you cooking your game meat ?",
+                "metadata": {}
+            },
+            {
+                "text": "it is broiled cooked",
+                "metadata": {}
+            },
+            {
+                "text": "part of game meat ?",
+                "metadata": {}
+            },
+            {
+                "text": "steak",
+                "metadata": {}
+            },
+            {
+                "text": "how much game meat are you using today ?",
+                "metadata": {}
+            },
+            {
+                "text": "I like having 100 g of game meat",
+                "metadata": {}
+            },
+            {
+                "text": "game meat has 45.0 mg of salt .",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG29.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "lamb",
+                    "cook": "pan fried cooked",
+                    "foodWeight": "3",
+                    "metric": "oz",
+                    "nutrient": "salt",
+                    "type": "brain variety meats and by products"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "133.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "is lamb okay for heart patients ?",
+                "metadata": {}
+            },
+            {
+                "text": "Can you describe your lamb for me ?",
+                "metadata": {}
+            },
+            {
+                "text": "brain variety meats and by products lamb",
+                "metadata": {}
+            },
+            {
+                "text": "how do you plan to cook your lamb ?",
+                "metadata": {}
+            },
+            {
+                "text": "it is pan fried cooked lamb",
+                "metadata": {}
+            },
+            {
+                "text": "Can you share what is the size of lamb are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "lamb is around 3 oz",
+                "metadata": {}
+            },
+            {
+                "text": "You can expect to have approximately 133.0 mg of salt in that lamb.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG30.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "lemonade",
+                    "foodWeight": "36.5",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "frozen concentrate"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "2.56"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "can people with bad heart eat lemonade ?",
+                "metadata": {}
+            },
+            {
+                "text": "What is your preference when it comes to lemonade ?",
+                "metadata": {}
+            },
+            {
+                "text": "My meal consists of frozen concentrate lemonade",
+                "metadata": {}
+            },
+            {
+                "text": "What your lemonade portion like ? ",
+                "metadata": {}
+            },
+            {
+                "text": "it is about 36.5 g",
+                "metadata": {}
+            },
+            {
+                "text": "lemonade has 2.56 mg of salt .",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG31.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "beef steak",
+                    "cook": "braised",
+                    "foodWeight": "100",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "lean only eaten"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "394.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "sodium content in beef steak ?",
+                "metadata": {}
+            },
+            {
+                "text": "Are you going for a particular type of beef steak ?",
+                "metadata": {}
+            },
+            {
+                "text": "My meal consists of lean only eaten beef steak",
+                "metadata": {}
+            },
+            {
+                "text": "how is beef steak cooked ?",
+                "metadata": {}
+            },
+            {
+                "text": "its braised",
+                "metadata": {}
+            },
+            {
+                "text": "what is the quantity of beef steak ?",
+                "metadata": {}
+            },
+            {
+                "text": "its 100 g",
+                "metadata": {}
+            },
+            {
+                "text": "You can expect to have approximately 394.0 mg of salt in that beef steak.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG32.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "black beans",
+                    "foodWeight": "100",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "from fast food restaurant"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "350.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "can people with bad heart eat black beans ?",
+                "metadata": {}
+            },
+            {
+                "text": "Can you tell me what black beans are you enjoying ?",
+                "metadata": {}
+            },
+            {
+                "text": "I decided to cook up some from fast food restaurant black beans for dinner.",
+                "metadata": {}
+            },
+            {
+                "text": "What your black beans portion like ? ",
+                "metadata": {}
+            },
+            {
+                "text": "The black beans weighs approximately 100 g",
+                "metadata": {}
+            },
+            {
+                "text": "The salt content in black beans is roughly 350.0 mg. ",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG33.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "burrito with beans",
+                    "foodWeight": "175",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "from fast food meatless"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "985.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "what is the best way to eat burrito with beans ?",
+                "metadata": {}
+            },
+            {
+                "text": "what is your choice of burrito with beans today",
+                "metadata": {}
+            },
+            {
+                "text": "It's a hearty meal with from fast food meatless burrito with beans",
+                "metadata": {}
+            },
+            {
+                "text": "what is the quantity of burrito with beans ?",
+                "metadata": {}
+            },
+            {
+                "text": "175 g .",
+                "metadata": {}
+            },
+            {
+                "text": "That burrito with beans contains a modest 985.0 mg of salt.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG34.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "cabbage salad or coleslaw",
+                    "foodWeight": "1",
+                    "metric": "fast",
+                    "nutrient": "salt",
+                    "type": "made with light creamy dressing"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "447.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "is cabbage salad or coleslaw okay for heart patients ?",
+                "metadata": {}
+            },
+            {
+                "text": "what kind of cabbage salad or coleslaw ?",
+                "metadata": {}
+            },
+            {
+                "text": "made with light creamy dressing cabbage salad or coleslaw are what's on my plate at the moment.",
+                "metadata": {}
+            },
+            {
+                "text": "Can you share what is the size of cabbage salad or coleslaw are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "You'll find that the cabbage salad or coleslaw is around 1 fast in weight.",
+                "metadata": {}
+            },
+            {
+                "text": "The salt content in cabbage salad or coleslaw is roughly 447.0 mg. ",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG35.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "ham",
+                    "cook": "cooked",
+                    "foodWeight": "134",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "lean and fat eaten fresh"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "512.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "What is the salt content in ham ?",
+                "metadata": {}
+            },
+            {
+                "text": "can you tell me more information about ham ?",
+                "metadata": {}
+            },
+            {
+                "text": "It's a hearty meal with lean and fat eaten fresh ham",
+                "metadata": {}
+            },
+            {
+                "text": "how is ham cooked ?",
+                "metadata": {}
+            },
+            {
+                "text": "cooked",
+                "metadata": {}
+            },
+            {
+                "text": "how much ham are you using today ?",
+                "metadata": {}
+            },
+            {
+                "text": "I like having 134 g of ham",
+                "metadata": {}
+            },
+            {
+                "text": "you will find about 512.0 mg of salt in ham",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG36.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "pecans",
+                    "foodWeight": "100",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "unroasted"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "0.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "can i eat pecans with my condition ?",
+                "metadata": {}
+            },
+            {
+                "text": "what type of pecans are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "unroasted pecans are what's on my plate at the moment.",
+                "metadata": {}
+            },
+            {
+                "text": "how much pecans are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "You're looking at a pecans with a weight of approximately 100 g",
+                "metadata": {}
+            },
+            {
+                "text": "You can expect to have approximately 0.0 mg of salt in that pecans.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG37.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "lamb chop",
+                    "cook": "cooked",
+                    "foodWeight": "100",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "ns as to fat eaten ns as to cut"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "399.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "can I eat lamb chop after I eat my medicine ?",
+                "metadata": {}
+            },
+            {
+                "text": "Can you describe your lamb chop for me ?",
+                "metadata": {}
+            },
+            {
+                "text": "The lamb chop is ns as to fat eaten ns as to cut",
+                "metadata": {}
+            },
+            {
+                "text": "how are you cooking your lamb chop ?",
+                "metadata": {}
+            },
+            {
+                "text": "it is cooked lamb chop",
+                "metadata": {}
+            },
+            {
+                "text": "Can you share what is the size of lamb chop are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "i dont understand",
+                "metadata": {}
+            },
+            {
+                "text": "That lamb chop contains a modest 399.0 mg of salt.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG38.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "oil",
+                    "foodWeight": "1.0",
+                    "metric": "tsp",
+                    "nutrient": "salt",
+                    "type": "grapeseed"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "0.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "how much salt in 1.0 tsp of oil ?",
+                "metadata": {}
+            },
+            {
+                "text": "Can you describe the type of oil you are having ?",
+                "metadata": {}
+            },
+            {
+                "text": "grapeseed",
+                "metadata": {}
+            },
+            {
+                "text": "The salt content in oil is roughly 0.0 mg. ",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG39.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "fruit juice drink",
+                    "foodWeight": "744",
+                    "metric": "g",
+                    "nutrient": "salt"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "96.7"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "Can I eat fruit juice drink ?",
+                "metadata": {}
+            },
+            {
+                "text": "what is the quantity of fruit juice drink ?",
+                "metadata": {}
+            },
+            {
+                "text": "its 744 g",
+                "metadata": {}
+            },
+            {
+                "text": "fruit juice drink has 96.7 mg of salt .",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG40.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "rolls",
+                    "foodWeight": "100",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "whole wheat dinner"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "521.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "how much rolls can I eat ?",
+                "metadata": {}
+            },
+            {
+                "text": "what is your choice of rolls today",
+                "metadata": {}
+            },
+            {
+                "text": "I am eating whole wheat dinner rolls",
+                "metadata": {}
+            },
+            {
+                "text": "what is the serving size for the rolls ?",
+                "metadata": {}
+            },
+            {
+                "text": "i dont understand",
+                "metadata": {}
+            },
+            {
+                "text": "That rolls contains a modest 521.0 mg of salt.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG41.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "popsicle",
+                    "foodWeight": "30",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "no sugar added"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "3.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "I am making popsicle tonight",
+                "metadata": {}
+            },
+            {
+                "text": "Could you share what is in your popsicle ?",
+                "metadata": {}
+            },
+            {
+                "text": "no sugar added popsicle",
+                "metadata": {}
+            },
+            {
+                "text": "What your popsicle portion like ? ",
+                "metadata": {}
+            },
+            {
+                "text": "it is around 30 g",
+                "metadata": {}
+            },
+            {
+                "text": "popsicle has 3.0 mg of salt .",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG42.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "oatmeal",
+                    "foodWeight": "1",
+                    "metric": "packet,",
+                    "nutrient": "salt",
+                    "type": "fat added other flavors instant"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "248.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "what is the nutritional composition of oatmeal ?",
+                "metadata": {}
+            },
+            {
+                "text": "Do you know what kind of oatmeal are you having ?",
+                "metadata": {}
+            },
+            {
+                "text": "I decided to cook up some fat added other flavors instant oatmeal for dinner.",
+                "metadata": {}
+            },
+            {
+                "text": "how much oatmeal are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "it is around 1 packet,",
+                "metadata": {}
+            },
+            {
+                "text": "That oatmeal contains a modest 248.0 mg of salt.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG43.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "corn",
+                    "cook": "drained boiled frozen",
+                    "foodWeight": "284.0",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "with salt cut off cob kernels"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "696.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "Can I eat corn ?",
+                "metadata": {}
+            },
+            {
+                "text": "What is your preference when it comes to corn ?",
+                "metadata": {}
+            },
+            {
+                "text": "its with salt cut off cob kernels",
+                "metadata": {}
+            },
+            {
+                "text": "do you know how corn is cooked ?",
+                "metadata": {}
+            },
+            {
+                "text": "it is drained boiled frozen",
+                "metadata": {}
+            },
+            {
+                "text": "What your corn portion like ? ",
+                "metadata": {}
+            },
+            {
+                "text": "I like having 284.0 g of corn",
+                "metadata": {}
+            },
+            {
+                "text": "That corn's salt level is at 696.0 mg",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG44.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "yeast",
+                    "foodWeight": "12",
+                    "metric": "g",
+                    "nutrient": "salt"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "6.12"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "is yeast okay for heart patients ?",
+                "metadata": {}
+            },
+            {
+                "text": "what is the serving size for the yeast ?",
+                "metadata": {}
+            },
+            {
+                "text": "You'll find that the yeast is around 12 g in weight.",
+                "metadata": {}
+            },
+            {
+                "text": "The salt content in yeast is roughly 6.12 mg. ",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG45.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "milk chocolate candy",
+                    "foodWeight": "21",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "plain"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "16.6"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "can I eat milk chocolate candy with medicine ?",
+                "metadata": {}
+            },
+            {
+                "text": "What kind of milk chocolate candy did you decide on eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "My meal consists of plain milk chocolate candy",
+                "metadata": {}
+            },
+            {
+                "text": "Can you share what is the size of milk chocolate candy are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "I am having 21 g of milk chocolate candy",
+                "metadata": {}
+            },
+            {
+                "text": "milk chocolate candy has 16.6 mg of salt .",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG46.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "trout",
+                    "cook": "fried",
+                    "foodWeight": "100",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "made with cooking spray coated"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "440.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "What is the salt content in trout ?",
+                "metadata": {}
+            },
+            {
+                "text": "Can you describe your trout for me ?",
+                "metadata": {}
+            },
+            {
+                "text": "made with cooking spray coated trout are on the menu for me tonight.",
+                "metadata": {}
+            },
+            {
+                "text": "can you tell me how your trout is cooked ?",
+                "metadata": {}
+            },
+            {
+                "text": "The trout is fried",
+                "metadata": {}
+            },
+            {
+                "text": "how much trout are you using today ?",
+                "metadata": {}
+            },
+            {
+                "text": "You're looking at a trout with a weight of approximately 100 g",
+                "metadata": {}
+            },
+            {
+                "text": "You'll be consuming around 440.0 mg of salt with that trout.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG47.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "pizza with meat other than pepperoni",
+                    "foodWeight": "1428",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "ns as to type of crust from restaurant or fast food"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "9040.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "can my partner with heart issues eat pizza with meat other than pepperoni ?",
+                "metadata": {}
+            },
+            {
+                "text": "what kind of pizza with meat other than pepperoni ?",
+                "metadata": {}
+            },
+            {
+                "text": "Tonight, it's all about ns as to type of crust from restaurant or fast food pizza with meat other than pepperoni",
+                "metadata": {}
+            },
+            {
+                "text": "what is the quantity of pizza with meat other than pepperoni ?",
+                "metadata": {}
+            },
+            {
+                "text": "it is around 1428 g",
+                "metadata": {}
+            },
+            {
+                "text": "You can expect to have approximately 9040.0 mg of salt in that pizza with meat other than pepperoni.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG48.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "coconut",
+                    "foodWeight": "100",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "fresh"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "20.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "can my partner with heart failure eat coconut ?",
+                "metadata": {}
+            },
+            {
+                "text": "Could you share what is in your coconut ?",
+                "metadata": {}
+            },
+            {
+                "text": "Tonight, it's all about fresh coconut",
+                "metadata": {}
+            },
+            {
+                "text": "Can you share what is the size of coconut are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "i dont understand",
+                "metadata": {}
+            },
+            {
+                "text": "You can expect to have approximately 20.0 mg of salt in that coconut.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG49.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "minestrone soup",
+                    "foodWeight": "532",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "canned or ready to serve reduced sodium"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "1140.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "what is the nutritional composition of minestrone soup ?",
+                "metadata": {}
+            },
+            {
+                "text": "Could you share what is in your minestrone soup ?",
+                "metadata": {}
+            },
+            {
+                "text": "The minestrone soup is canned or ready to serve reduced sodium",
+                "metadata": {}
+            },
+            {
+                "text": "how much minestrone soup are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "You're looking at a minestrone soup with a weight of approximately 532 g",
+                "metadata": {}
+            },
+            {
+                "text": "you will find about 1140.0 mg of salt in minestrone soup",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG50.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "beef",
+                    "cook": "broiled cooked",
+                    "foodWeight": "453.6",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "all grades trimmed to fat separable lean and fat inside skirt steak plate"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "340.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "can people with bad heart eat beef ?",
+                "metadata": {}
+            },
+            {
+                "text": "Do you know what kind of beef are you having ?",
+                "metadata": {}
+            },
+            {
+                "text": "all grades trimmed to fat separable lean and fat inside skirt steak plate beef are on the menu for me tonight.",
+                "metadata": {}
+            },
+            {
+                "text": "do you know how beef is cooked ?",
+                "metadata": {}
+            },
+            {
+                "text": "its broiled cooked",
+                "metadata": {}
+            },
+            {
+                "text": "What your beef portion like ? ",
+                "metadata": {}
+            },
+            {
+                "text": "I like having 453.6 g of beef",
+                "metadata": {}
+            },
+            {
+                "text": "That beef's salt level is at 340.0 mg",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG51.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "potato",
+                    "cook": "mashed",
+                    "foodWeight": "100",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "with gravy ready to heat"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "316.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "can I eat potato with medicine ?",
+                "metadata": {}
+            },
+            {
+                "text": "can you tell me more information about potato ?",
+                "metadata": {}
+            },
+            {
+                "text": "it is with gravy ready to heat",
+                "metadata": {}
+            },
+            {
+                "text": "how are you cooking your potato ?",
+                "metadata": {}
+            },
+            {
+                "text": "it is mashed",
+                "metadata": {}
+            },
+            {
+                "text": "Can you share what is the size of potato are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "I like having 100 g of potato",
+                "metadata": {}
+            },
+            {
+                "text": "You can expect to have approximately 316.0 mg of salt in that potato.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG52.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "breadsticks",
+                    "foodWeight": "1",
+                    "metric": "large",
+                    "nutrient": "salt",
+                    "type": "stuffed with melted cheese soft"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "487.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "I am making breadsticks tonight",
+                "metadata": {}
+            },
+            {
+                "text": "what kind of breadsticks ?",
+                "metadata": {}
+            },
+            {
+                "text": "I am eating stuffed with melted cheese soft breadsticks",
+                "metadata": {}
+            },
+            {
+                "text": "what is the quantity of breadsticks ?",
+                "metadata": {}
+            },
+            {
+                "text": "I am having 1 large of breadsticks",
+                "metadata": {}
+            },
+            {
+                "text": "That breadsticks's salt level is at 487.0 mg",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG53.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "oyster pie",
+                    "foodWeight": "100",
+                    "metric": "g",
+                    "nutrient": "salt"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "292.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "can my partner with heart failure eat oyster pie ?",
+                "metadata": {}
+            },
+            {
+                "text": "how much oyster pie are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "it is about 100 g",
+                "metadata": {}
+            },
+            {
+                "text": "You'll be consuming around 292.0 mg of salt with that oyster pie.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG54.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "spinach",
+                    "cook": "raw",
+                    "foodWeight": "100",
+                    "metric": "g",
+                    "nutrient": "salt"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "79.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "spinach salt",
+                "metadata": {}
+            },
+            {
+                "text": "What your spinach portion like ? ",
+                "metadata": {}
+            },
+            {
+                "text": "it is about 100 g",
+                "metadata": {}
+            },
+            {
+                "text": "you will find about 79.0 mg of salt in spinach",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG55.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "noodles",
+                    "foodWeight": "100.0",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "dry enriched spinach egg"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "72.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "what is the best way to eat noodles ?",
+                "metadata": {}
+            },
+            {
+                "text": "What kind of noodles did you decide on eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "I am eating dry enriched spinach egg noodles",
+                "metadata": {}
+            },
+            {
+                "text": "what is the quantity of noodles ?",
+                "metadata": {}
+            },
+            {
+                "text": "its 100.0 g",
+                "metadata": {}
+            },
+            {
+                "text": "That noodles contains a modest 72.0 mg of salt.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG56.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "pancakes",
+                    "foodWeight": "100",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "with fruit"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "398.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "can my partner with heart failure eat pancakes ?",
+                "metadata": {}
+            },
+            {
+                "text": "Can you describe the type of pancakes you are having ?",
+                "metadata": {}
+            },
+            {
+                "text": "Tonight, it's all about with fruit pancakes",
+                "metadata": {}
+            },
+            {
+                "text": "what is the serving size for the pancakes ?",
+                "metadata": {}
+            },
+            {
+                "text": "dont know",
+                "metadata": {}
+            },
+            {
+                "text": "You can expect to have approximately 398.0 mg of salt in that pancakes.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG57.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "turnip greens",
+                    "cook": "cooked canned",
+                    "foodWeight": "170",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "fat added"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "571.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "Can I eat turnip greens ?",
+                "metadata": {}
+            },
+            {
+                "text": "can you tell me more information about turnip greens ?",
+                "metadata": {}
+            },
+            {
+                "text": "My meal consists of fat added turnip greens",
+                "metadata": {}
+            },
+            {
+                "text": "how is turnip greens cooked ?",
+                "metadata": {}
+            },
+            {
+                "text": "its cooked canned",
+                "metadata": {}
+            },
+            {
+                "text": "Can you share what is the size of turnip greens are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "You're looking at a turnip greens with a weight of approximately 170 g",
+                "metadata": {}
+            },
+            {
+                "text": "turnip greens has 571.0 mg of salt .",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG58.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "cheese",
+                    "foodWeight": "21",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "fontina"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "168.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "I am making cheese tonight",
+                "metadata": {}
+            },
+            {
+                "text": "Can you describe your cheese for me ?",
+                "metadata": {}
+            },
+            {
+                "text": "its fontina",
+                "metadata": {}
+            },
+            {
+                "text": "how much cheese are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "I am having 21 g of cheese",
+                "metadata": {}
+            },
+            {
+                "text": "That cheese's salt level is at 168.0 mg",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG59.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "veal",
+                    "part": "rib",
+                    "cook": "roasted cooked",
+                    "foodWeight": "3",
+                    "metric": "oz",
+                    "nutrient": "salt",
+                    "type": "separable lean only"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "82.4"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "can my partner with heart issues eat veal ?",
+                "metadata": {}
+            },
+            {
+                "text": "what type of veal are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "its separable lean only",
+                "metadata": {}
+            },
+            {
+                "text": "how is veal cooked ?",
+                "metadata": {}
+            },
+            {
+                "text": "The veal is roasted cooked",
+                "metadata": {}
+            },
+            {
+                "text": "part of veal ?",
+                "metadata": {}
+            },
+            {
+                "text": "I am eating rib veal .",
+                "metadata": {}
+            },
+            {
+                "text": "Can you share what is the size of veal are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "it is around 3 oz",
+                "metadata": {}
+            },
+            {
+                "text": "The salt content in veal is roughly 82.4 mg. ",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG60.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "pork chop",
+                    "foodWeight": "134",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "lean and fat eaten broiled or baked"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "689.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "what is the best way to eat pork chop ?",
+                "metadata": {}
+            },
+            {
+                "text": "Can you describe your pork chop for me ?",
+                "metadata": {}
+            },
+            {
+                "text": "lean and fat eaten broiled or baked pork chop are on the menu for me tonight.",
+                "metadata": {}
+            },
+            {
+                "text": "how much pork chop are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "it is about 134 g",
+                "metadata": {}
+            },
+            {
+                "text": "You'll be consuming around 689.0 mg of salt with that pork chop.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG61.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "sausage",
+                    "foodWeight": "1",
+                    "metric": "cup",
+                    "nutrient": "salt",
+                    "type": "and or dark green leafy tomato based sauce broccoli and vegetables including carrots noodles"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "966.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "what is the nutritional composition of sausage ?",
+                "metadata": {}
+            },
+            {
+                "text": "What is your preference when it comes to sausage ?",
+                "metadata": {}
+            },
+            {
+                "text": "The sausage is and or dark green leafy tomato based sauce broccoli and vegetables including carrots noodles",
+                "metadata": {}
+            },
+            {
+                "text": "what is the quantity of sausage ?",
+                "metadata": {}
+            },
+            {
+                "text": "it is around 1 cup",
+                "metadata": {}
+            },
+            {
+                "text": "You can expect to have approximately 966.0 mg of salt in that sausage.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG62.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "snacks",
+                    "cook": "chewy",
+                    "foodWeight": "100",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "mixed flavors kashi golean granola bar"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "321.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "can i eat snacks with my condition ?",
+                "metadata": {}
+            },
+            {
+                "text": "Can you tell me what snacks are you enjoying ?",
+                "metadata": {}
+            },
+            {
+                "text": "Tonight, it's all about mixed flavors kashi golean granola bar snacks",
+                "metadata": {}
+            },
+            {
+                "text": "how are you cooking your snacks ?",
+                "metadata": {}
+            },
+            {
+                "text": "its chewy",
+                "metadata": {}
+            },
+            {
+                "text": "What your snacks portion like ? ",
+                "metadata": {}
+            },
+            {
+                "text": "its 100 g",
+                "metadata": {}
+            },
+            {
+                "text": "you will find about 321.0 mg of salt in snacks",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG63.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "tea",
+                    "foodWeight": "1",
+                    "metric": "medium",
+                    "nutrient": "salt",
+                    "type": "pre sweetened with low calorie sweetener decaffeinated brewed iced"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "0.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "is tea okay for heart patients ?",
+                "metadata": {}
+            },
+            {
+                "text": "what type of tea are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "pre sweetened with low calorie sweetener decaffeinated brewed iced tea are what's on my plate at the moment.",
+                "metadata": {}
+            },
+            {
+                "text": "What your tea portion like ? ",
+                "metadata": {}
+            },
+            {
+                "text": "The tea weighs approximately 1 medium",
+                "metadata": {}
+            },
+            {
+                "text": "That tea contains a modest 0.0 mg of salt.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG64.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "kale",
+                    "cook": "raw",
+                    "foodWeight": "100",
+                    "metric": "g",
+                    "nutrient": "salt"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "53.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "I would like to cook some kale tonight",
+                "metadata": {}
+            },
+            {
+                "text": "how much kale are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "I am having 100 g of kale",
+                "metadata": {}
+            },
+            {
+                "text": "You'll be consuming around 53.0 mg of salt with that kale.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG65.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "grits",
+                    "foodWeight": "148",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "ns as to fat made with milk instant"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "380.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "how much grits can I eat ?",
+                "metadata": {}
+            },
+            {
+                "text": "Can you describe your grits for me ?",
+                "metadata": {}
+            },
+            {
+                "text": "It's a hearty meal with ns as to fat made with milk instant grits",
+                "metadata": {}
+            },
+            {
+                "text": "how much grits are you using today ?",
+                "metadata": {}
+            },
+            {
+                "text": "grits is around 148 g",
+                "metadata": {}
+            },
+            {
+                "text": "You can expect to have approximately 380.0 mg of salt in that grits.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG66.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "pie",
+                    "foodWeight": "1",
+                    "metric": "oz",
+                    "nutrient": "salt",
+                    "type": "commercially prepared coconut creme"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "57.8"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "can i eat pie if I have a bad heart ?",
+                "metadata": {}
+            },
+            {
+                "text": "Could you share what is in your pie ?",
+                "metadata": {}
+            },
+            {
+                "text": "commercially prepared coconut creme",
+                "metadata": {}
+            },
+            {
+                "text": "what is the quantity of pie ?",
+                "metadata": {}
+            },
+            {
+                "text": "its 1 oz",
+                "metadata": {}
+            },
+            {
+                "text": "That pie contains a modest 57.8 mg of salt.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG67.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "apple peach juice",
+                    "foodWeight": "1",
+                    "metric": "Gerber",
+                    "nutrient": "salt",
+                    "type": "baby food"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "0.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "apple peach juice salt",
+                "metadata": {}
+            },
+            {
+                "text": "What is your preference when it comes to apple peach juice ?",
+                "metadata": {}
+            },
+            {
+                "text": "I've got some delicious baby food apple peach juice on my plate",
+                "metadata": {}
+            },
+            {
+                "text": "what is the serving size for the apple peach juice ?",
+                "metadata": {}
+            },
+            {
+                "text": "it is around 1 Gerber",
+                "metadata": {}
+            },
+            {
+                "text": "That apple peach juice contains a modest 0.0 mg of salt.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG68.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "chicken tenders or strips",
+                    "cook": "breaded",
+                    "foodWeight": "140",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "from school lunch"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "715.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "is chicken tenders or strips okay for heart patients ?",
+                "metadata": {}
+            },
+            {
+                "text": "What kind of chicken tenders or strips did you decide on eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "from school lunch chicken tenders or strips are on the menu for me tonight.",
+                "metadata": {}
+            },
+            {
+                "text": "how is chicken tenders or strips cooked ?",
+                "metadata": {}
+            },
+            {
+                "text": "it is breaded chicken tenders or strips",
+                "metadata": {}
+            },
+            {
+                "text": "how much chicken tenders or strips are you using today ?",
+                "metadata": {}
+            },
+            {
+                "text": "its 140 g",
+                "metadata": {}
+            },
+            {
+                "text": "you will find about 715.0 mg of salt in chicken tenders or strips",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG69.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "fruit dessert",
+                    "foodWeight": "1",
+                    "metric": "Gerber",
+                    "nutrient": "salt",
+                    "type": "junior baby food"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "0.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "how much fruit dessert is safe for me to eat ?",
+                "metadata": {}
+            },
+            {
+                "text": "Do you know what kind of fruit dessert are you having ?",
+                "metadata": {}
+            },
+            {
+                "text": "junior baby food fruit dessert are on the menu for me tonight.",
+                "metadata": {}
+            },
+            {
+                "text": "What your fruit dessert portion like ? ",
+                "metadata": {}
+            },
+            {
+                "text": "You'll find that the fruit dessert is around 1 Gerber in weight.",
+                "metadata": {}
+            },
+            {
+                "text": "You'll be consuming around 0.0 mg of salt with that fruit dessert.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG70.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "apple banana juice",
+                    "foodWeight": "1",
+                    "metric": "Gerber",
+                    "nutrient": "salt",
+                    "type": "baby food"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "4.96"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "apple banana juice salt",
+                "metadata": {}
+            },
+            {
+                "text": "Can you describe the type of apple banana juice you are having ?",
+                "metadata": {}
+            },
+            {
+                "text": "It's a hearty meal with baby food apple banana juice",
+                "metadata": {}
+            },
+            {
+                "text": "What your apple banana juice portion like ? ",
+                "metadata": {}
+            },
+            {
+                "text": "its 1 Gerber",
+                "metadata": {}
+            },
+            {
+                "text": "That apple banana juice contains a modest 4.96 mg of salt.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG71.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "ice cream",
+                    "foodWeight": "100",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "with additional ingredients vanilla"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "105.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "ice cream salt",
+                "metadata": {}
+            },
+            {
+                "text": "Can you describe the type of ice cream you are having ?",
+                "metadata": {}
+            },
+            {
+                "text": "I decided to cook up some with additional ingredients vanilla ice cream for dinner.",
+                "metadata": {}
+            },
+            {
+                "text": "Can you share what is the size of ice cream are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "You're looking at a ice cream with a weight of approximately 100 g",
+                "metadata": {}
+            },
+            {
+                "text": "ice cream has 105.0 mg of salt .",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG72.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "margarine like",
+                    "foodWeight": "14.3",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "with salt stick tub bottle fat vegetable oil spread"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "100.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "is it safe for me to eat margarine like ?",
+                "metadata": {}
+            },
+            {
+                "text": "What is your preference when it comes to margarine like ?",
+                "metadata": {}
+            },
+            {
+                "text": "its with salt stick tub bottle fat vegetable oil spread",
+                "metadata": {}
+            },
+            {
+                "text": "what is the serving size for the margarine like ?",
+                "metadata": {}
+            },
+            {
+                "text": "You'll find that the margarine like is around 14.3 g in weight.",
+                "metadata": {}
+            },
+            {
+                "text": "you will find about 100.0 mg of salt in margarine like",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG73.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "beef sausage",
+                    "foodWeight": "100",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "reduced sodium"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "415.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "how much salt in beef sausage ?",
+                "metadata": {}
+            },
+            {
+                "text": "Could you share what is in your beef sausage ?",
+                "metadata": {}
+            },
+            {
+                "text": "Tonight, it's all about reduced sodium beef sausage",
+                "metadata": {}
+            },
+            {
+                "text": "What your beef sausage portion like ? ",
+                "metadata": {}
+            },
+            {
+                "text": "dont know",
+                "metadata": {}
+            },
+            {
+                "text": "You'll be consuming around 415.0 mg of salt with that beef sausage.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG74.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "crackers",
+                    "foodWeight": "100",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "flatbread"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "632.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "is it safe for me to eat crackers ?",
+                "metadata": {}
+            },
+            {
+                "text": "what kind of crackers ?",
+                "metadata": {}
+            },
+            {
+                "text": "flatbread crackers are on the menu for me tonight.",
+                "metadata": {}
+            },
+            {
+                "text": "how much crackers are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "i dont understand",
+                "metadata": {}
+            },
+            {
+                "text": "you will find about 632.0 mg of salt in crackers",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG75.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "fish",
+                    "cook": "cooked",
+                    "foodWeight": "85",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "batter dipped and fried mixed species shark"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "104.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "is it safe for me to eat fish ?",
+                "metadata": {}
+            },
+            {
+                "text": "Could you share what is in your fish ?",
+                "metadata": {}
+            },
+            {
+                "text": "I decided to cook up some batter dipped and fried mixed species shark fish for dinner.",
+                "metadata": {}
+            },
+            {
+                "text": "can you tell me how your fish is cooked ?",
+                "metadata": {}
+            },
+            {
+                "text": "it is cooked",
+                "metadata": {}
+            },
+            {
+                "text": "how much fish are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "I am having 85 g of fish",
+                "metadata": {}
+            },
+            {
+                "text": "You can expect to have approximately 104.0 mg of salt in that fish.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG76.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "congee",
+                    "foodWeight": "187",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "and vegetables and or seafood poultry with meat"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "471.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "what is the nutritional composition of congee ?",
+                "metadata": {}
+            },
+            {
+                "text": "can you tell me more information about congee ?",
+                "metadata": {}
+            },
+            {
+                "text": "and vegetables and or seafood poultry with meat congee are on the menu for me tonight.",
+                "metadata": {}
+            },
+            {
+                "text": "how much congee are you using today ?",
+                "metadata": {}
+            },
+            {
+                "text": "congee is around 187 g",
+                "metadata": {}
+            },
+            {
+                "text": "The salt content in congee is roughly 471.0 mg. ",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG77.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "beef",
+                    "cook": "broiled cooked",
+                    "foodWeight": "100.0",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "all grades trimmed to fat separable lean and fat outside skirt steak plate"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "92.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "Can I eat beef ?",
+                "metadata": {}
+            },
+            {
+                "text": "can you tell me more information about beef ?",
+                "metadata": {}
+            },
+            {
+                "text": "My meal consists of all grades trimmed to fat separable lean and fat outside skirt steak plate beef",
+                "metadata": {}
+            },
+            {
+                "text": "how do you plan to cook your beef ?",
+                "metadata": {}
+            },
+            {
+                "text": "its broiled cooked",
+                "metadata": {}
+            },
+            {
+                "text": "how much beef are you using today ?",
+                "metadata": {}
+            },
+            {
+                "text": "You'll find that the beef is around 100.0 g in weight.",
+                "metadata": {}
+            },
+            {
+                "text": "That beef's salt level is at 92.0 mg",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG78.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "cookie",
+                    "foodWeight": "30",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "with chocolate bar"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "93.3"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "can people with bad heart eat cookie ?",
+                "metadata": {}
+            },
+            {
+                "text": "Can you describe your cookie for me ?",
+                "metadata": {}
+            },
+            {
+                "text": "I've got some delicious with chocolate bar cookie on my plate",
+                "metadata": {}
+            },
+            {
+                "text": "Can you share what is the size of cookie are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "You'll find that the cookie is around 30 g in weight.",
+                "metadata": {}
+            },
+            {
+                "text": "The salt content in cookie is roughly 93.3 mg. ",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG79.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "veal",
+                    "cook": "cooked",
+                    "foodWeight": "85",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "external fat only"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "87.6"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "I would like to cook some veal tonight",
+                "metadata": {}
+            },
+            {
+                "text": "Can you describe the type of veal you are having ?",
+                "metadata": {}
+            },
+            {
+                "text": "I decided to cook up some external fat only veal for dinner.",
+                "metadata": {}
+            },
+            {
+                "text": "how is veal cooked ?",
+                "metadata": {}
+            },
+            {
+                "text": "it is cooked",
+                "metadata": {}
+            },
+            {
+                "text": "Can you share what is the size of veal are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "The veal weighs approximately 85 g",
+                "metadata": {}
+            },
+            {
+                "text": "You'll be consuming around 87.6 mg of salt with that veal.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG80.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "cheese spread",
+                    "foodWeight": "34.0",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "pasteurized process"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "552.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "I would like to cook some cheese spread tonight",
+                "metadata": {}
+            },
+            {
+                "text": "what type of cheese spread are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "The cheese spread is pasteurized process",
+                "metadata": {}
+            },
+            {
+                "text": "Can you share what is the size of cheese spread are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "it is around 34.0 g",
+                "metadata": {}
+            },
+            {
+                "text": "The salt content in cheese spread is roughly 552.0 mg. ",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG81.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "veal patty",
+                    "cook": "cooked breaded",
+                    "foodWeight": "79",
+                    "metric": "g",
+                    "nutrient": "salt"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "341.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "can I eat veal patty with medicine ?",
+                "metadata": {}
+            },
+            {
+                "text": "how are you cooking your veal patty ?",
+                "metadata": {}
+            },
+            {
+                "text": "its cooked breaded",
+                "metadata": {}
+            },
+            {
+                "text": "what is the serving size for the veal patty ?",
+                "metadata": {}
+            },
+            {
+                "text": "I like having 79 g of veal patty",
+                "metadata": {}
+            },
+            {
+                "text": "That veal patty contains a modest 341.0 mg of salt.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG82.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "chicken noodle dinner",
+                    "foodWeight": "1",
+                    "metric": "jar,",
+                    "nutrient": "salt",
+                    "type": "junior baby food"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "42.5"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "what type of chicken noodle dinner can I eat ?",
+                "metadata": {}
+            },
+            {
+                "text": "can you tell me more information about chicken noodle dinner ?",
+                "metadata": {}
+            },
+            {
+                "text": "The chicken noodle dinner is junior baby food",
+                "metadata": {}
+            },
+            {
+                "text": "What your chicken noodle dinner portion like ? ",
+                "metadata": {}
+            },
+            {
+                "text": "it is around 1 jar,",
+                "metadata": {}
+            },
+            {
+                "text": "You can expect to have approximately 42.5 mg of salt in that chicken noodle dinner.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG83.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "soup",
+                    "cook": "canned",
+                    "foodWeight": "100",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "prepared with equal volume water cream of mushroom"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "340.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "how much salt in soup ?",
+                "metadata": {}
+            },
+            {
+                "text": "What is your preference when it comes to soup ?",
+                "metadata": {}
+            },
+            {
+                "text": "I am eating prepared with equal volume water cream of mushroom soup",
+                "metadata": {}
+            },
+            {
+                "text": "do you know how soup is cooked ?",
+                "metadata": {}
+            },
+            {
+                "text": "it is canned",
+                "metadata": {}
+            },
+            {
+                "text": "What your soup portion like ? ",
+                "metadata": {}
+            },
+            {
+                "text": "i dont understand",
+                "metadata": {}
+            },
+            {
+                "text": "The salt content in soup is roughly 340.0 mg. ",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG84.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "cake or cupcake",
+                    "foodWeight": "62",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "without icing or filling applesauce"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "126.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "can my partner with heart failure eat cake or cupcake ?",
+                "metadata": {}
+            },
+            {
+                "text": "Can you describe the type of cake or cupcake you are having ?",
+                "metadata": {}
+            },
+            {
+                "text": "without icing or filling applesauce cake or cupcake",
+                "metadata": {}
+            },
+            {
+                "text": "what is the quantity of cake or cupcake ?",
+                "metadata": {}
+            },
+            {
+                "text": "it is around 62 g",
+                "metadata": {}
+            },
+            {
+                "text": "The salt content in cake or cupcake is roughly 126.0 mg. ",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG85.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "halibut",
+                    "foodWeight": "1",
+                    "metric": "cubic",
+                    "nutrient": "salt",
+                    "type": "made with margarine baked or broiled coated"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "44.1"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "can i eat halibut if I have a bad heart ?",
+                "metadata": {}
+            },
+            {
+                "text": "What kind of halibut did you decide on eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "made with margarine baked or broiled coated halibut are what's on my plate at the moment.",
+                "metadata": {}
+            },
+            {
+                "text": "What your halibut portion like ? ",
+                "metadata": {}
+            },
+            {
+                "text": "halibut is around 1 cubic",
+                "metadata": {}
+            },
+            {
+                "text": "You'll be consuming around 44.1 mg of salt with that halibut.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG86.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "doughnuts",
+                    "foodWeight": "1.0",
+                    "metric": "extra",
+                    "nutrient": "salt",
+                    "type": "enriched glazed yeast leavened"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "386.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "can my partner with heart issues eat doughnuts ?",
+                "metadata": {}
+            },
+            {
+                "text": "Do you know what kind of doughnuts are you having ?",
+                "metadata": {}
+            },
+            {
+                "text": "it is enriched glazed yeast leavened",
+                "metadata": {}
+            },
+            {
+                "text": "how much doughnuts are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "I like having 1.0 extra of doughnuts",
+                "metadata": {}
+            },
+            {
+                "text": "The salt content in doughnuts is roughly 386.0 mg. ",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG87.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "pizza hut cheese pizza",
+                    "foodWeight": "117.0",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "stuffed crust"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "720.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "I would like to cook some pizza hut cheese pizza tonight",
+                "metadata": {}
+            },
+            {
+                "text": "Can you describe the type of pizza hut cheese pizza you are having ?",
+                "metadata": {}
+            },
+            {
+                "text": "Tonight, it's all about stuffed crust pizza hut cheese pizza",
+                "metadata": {}
+            },
+            {
+                "text": "What your pizza hut cheese pizza portion like ? ",
+                "metadata": {}
+            },
+            {
+                "text": "The pizza hut cheese pizza weighs approximately 117.0 g",
+                "metadata": {}
+            },
+            {
+                "text": "you will find about 720.0 mg of salt in pizza hut cheese pizza",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG88.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "pinto beans and white rice",
+                    "foodWeight": "170",
+                    "metric": "g",
+                    "nutrient": "salt"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "388.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "I would like to cook some pinto beans and white rice tonight",
+                "metadata": {}
+            },
+            {
+                "text": "What your pinto beans and white rice portion like ? ",
+                "metadata": {}
+            },
+            {
+                "text": "its 170 g",
+                "metadata": {}
+            },
+            {
+                "text": "You'll be consuming around 388.0 mg of salt with that pinto beans and white rice.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG89.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "asparagus",
+                    "cook": "cooked",
+                    "foodWeight": "1",
+                    "metric": "spear",
+                    "nutrient": "salt",
+                    "type": "ns as to form"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "21.3"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "Can I eat asparagus ?",
+                "metadata": {}
+            },
+            {
+                "text": "What is your preference when it comes to asparagus ?",
+                "metadata": {}
+            },
+            {
+                "text": "ns as to form asparagus are on the menu for me tonight.",
+                "metadata": {}
+            },
+            {
+                "text": "can you tell me how your asparagus is cooked ?",
+                "metadata": {}
+            },
+            {
+                "text": "it is cooked",
+                "metadata": {}
+            },
+            {
+                "text": "Can you share what is the size of asparagus are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "its 1 spear",
+                "metadata": {}
+            },
+            {
+                "text": "That asparagus contains a modest 21.3 mg of salt.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG90.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "pizza with beans and vegetables",
+                    "foodWeight": "100",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "thick crust"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "485.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "what is the best way to eat pizza with beans and vegetables ?",
+                "metadata": {}
+            },
+            {
+                "text": "what is your choice of pizza with beans and vegetables today",
+                "metadata": {}
+            },
+            {
+                "text": "It's a hearty meal with thick crust pizza with beans and vegetables",
+                "metadata": {}
+            },
+            {
+                "text": "how much pizza with beans and vegetables are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "i dont understand",
+                "metadata": {}
+            },
+            {
+                "text": "The salt content in pizza with beans and vegetables is roughly 485.0 mg. ",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG91.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "rice",
+                    "foodWeight": "129",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "ns as to fat with dark green vegetables and tomatoes and or tomato based sauce"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "250.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "I would like to cook some rice tonight",
+                "metadata": {}
+            },
+            {
+                "text": "what kind of rice ?",
+                "metadata": {}
+            },
+            {
+                "text": "It's a hearty meal with ns as to fat with dark green vegetables and tomatoes and or tomato based sauce rice",
+                "metadata": {}
+            },
+            {
+                "text": "what is the serving size for the rice ?",
+                "metadata": {}
+            },
+            {
+                "text": "You'll find that the rice is around 129 g in weight.",
+                "metadata": {}
+            },
+            {
+                "text": "You'll be consuming around 250.0 mg of salt with that rice.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG92.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "croissants",
+                    "foodWeight": "1",
+                    "metric": "oz",
+                    "nutrient": "salt",
+                    "type": "butter"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "109.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "croissants salt",
+                "metadata": {}
+            },
+            {
+                "text": "what kind of croissants ?",
+                "metadata": {}
+            },
+            {
+                "text": "butter",
+                "metadata": {}
+            },
+            {
+                "text": "what is the quantity of croissants ?",
+                "metadata": {}
+            },
+            {
+                "text": "You'll find that the croissants is around 1 oz in weight.",
+                "metadata": {}
+            },
+            {
+                "text": "That croissants's salt level is at 109.0 mg",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG93.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "ice creams",
+                    "foodWeight": "1.0",
+                    "metric": "serving",
+                    "nutrient": "salt",
+                    "type": "fat free chocolate breyers"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "51.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "can I eat ice creams with medicine ?",
+                "metadata": {}
+            },
+            {
+                "text": "What kind of ice creams did you decide on eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "fat free chocolate breyers ice creams are what's on my plate at the moment.",
+                "metadata": {}
+            },
+            {
+                "text": "what is the quantity of ice creams ?",
+                "metadata": {}
+            },
+            {
+                "text": "The ice creams weighs approximately 1.0 serving",
+                "metadata": {}
+            },
+            {
+                "text": "That ice creams contains a modest 51.0 mg of salt.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG94.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "beef",
+                    "part": "rib",
+                    "cook": "raw",
+                    "foodWeight": "100",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "select trimmed to fat separable lean only bone in back ribs"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "59.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "is it okay to eat beef ?",
+                "metadata": {}
+            },
+            {
+                "text": "what kind of beef ?",
+                "metadata": {}
+            },
+            {
+                "text": "The beef is select trimmed to fat separable lean only bone in back ribs",
+                "metadata": {}
+            },
+            {
+                "text": "And which part of beef are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "I am eating rib beef .",
+                "metadata": {}
+            },
+            {
+                "text": "What your beef portion like ? ",
+                "metadata": {}
+            },
+            {
+                "text": "i dont understand",
+                "metadata": {}
+            },
+            {
+                "text": "beef has 59.0 mg of salt .",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG95.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "chicken or turkey caesar garden salad",
+                    "foodWeight": "1",
+                    "metric": "Wendy's",
+                    "nutrient": "salt",
+                    "type": "no dressing cheese tomato lettuce chicken and or turkey"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "684.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "can my partner with heart failure eat chicken or turkey caesar garden salad ?",
+                "metadata": {}
+            },
+            {
+                "text": "Do you know what kind of chicken or turkey caesar garden salad are you having ?",
+                "metadata": {}
+            },
+            {
+                "text": "it is no dressing cheese tomato lettuce chicken and or turkey",
+                "metadata": {}
+            },
+            {
+                "text": "Can you share what is the size of chicken or turkey caesar garden salad are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "it is around 1 Wendy's",
+                "metadata": {}
+            },
+            {
+                "text": "chicken or turkey caesar garden salad has 684.0 mg of salt .",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG96.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "cheese",
+                    "foodWeight": "100",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "swiss pasteurized process"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "1370.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "how much salt in cheese ?",
+                "metadata": {}
+            },
+            {
+                "text": "what type of cheese are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "it is swiss pasteurized process",
+                "metadata": {}
+            },
+            {
+                "text": "how much cheese are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "dont know",
+                "metadata": {}
+            },
+            {
+                "text": "That cheese contains a modest 1370.0 mg of salt.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG97.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "fish",
+                    "cook": "raw",
+                    "foodWeight": "85",
+                    "metric": "g",
+                    "nutrient": "salt",
+                    "type": "wild coho salmon"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "39.1"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "fish salt",
+                "metadata": {}
+            },
+            {
+                "text": "can you tell me more information about fish ?",
+                "metadata": {}
+            },
+            {
+                "text": "The fish is wild coho salmon",
+                "metadata": {}
+            },
+            {
+                "text": "what is the serving size for the fish ?",
+                "metadata": {}
+            },
+            {
+                "text": "it is around 85 g",
+                "metadata": {}
+            },
+            {
+                "text": "That fish's salt level is at 39.1 mg",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG98.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "vinegar",
+                    "foodWeight": "9",
+                    "metric": "g",
+                    "nutrient": "salt"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "0.45"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "is vinegar healthy ?",
+                "metadata": {}
+            },
+            {
+                "text": "how much vinegar are you using today ?",
+                "metadata": {}
+            },
+            {
+                "text": "The vinegar weighs approximately 9 g",
+                "metadata": {}
+            },
+            {
+                "text": "You'll be consuming around 0.45 mg of salt with that vinegar.",
+                "metadata": {}
+            }
+        ]
+    },
+    "SNG99.json": {
+        "goal": {
+            "food": {
+                "info": {
+                    "food": "ice cream",
+                    "foodWeight": "1",
+                    "metric": "small",
+                    "nutrient": "salt",
+                    "type": "vanilla"
+                },
+                "book": {
+                    "saltmetric": "mg",
+                    "value": "96.0"
+                }
+            }
+        },
+        "log": [
+            {
+                "text": "how much salt in ice cream ?",
+                "metadata": {}
+            },
+            {
+                "text": "Can you describe your ice cream for me ?",
+                "metadata": {}
+            },
+            {
+                "text": "it is vanilla",
+                "metadata": {}
+            },
+            {
+                "text": "Can you share what is the size of ice cream are you eating ?",
+                "metadata": {}
+            },
+            {
+                "text": "it is around 1 small",
+                "metadata": {}
+            },
+            {
+                "text": "You'll be consuming around 96.0 mg of salt with that ice cream.",
+                "metadata": {}
+            }
+        ]
+    }
+}
