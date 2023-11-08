@@ -1,0 +1,44 @@
+[    
+    {
+        "value": "556.0",
+        "fooddescription": "Pork chop, breaded or floured, broiled or baked, NS as to fat eaten",
+        "saltmetric": "mg",
+        "metric": "g",
+        "foodweight": "100"
+    },
+    {
+        "value": "545.0",
+        "fooddescription": "Pork chop, breaded or floured, broiled or baked, NS as to fat eaten",
+        "saltmetric": "mg",
+        "metric": "g",
+        "foodweight": "98"
+    },
+    {
+        "value": "300.0",
+        "fooddescription": "Pork chop, breaded or floured, broiled or baked, NS as to fat eaten",
+        "saltmetric": "mg",
+        "metric": "g",
+        "foodweight": "54"
+    },
+    {
+        "value": "100.0",
+        "fooddescription": "Pork chop, breaded or floured, broiled or baked, NS as to fat eaten",
+        "saltmetric": "mg",
+        "metric": "oz,",
+        "foodweight": "1"
+    },
+    {
+        "value": "49.3",
+        "fooddescription": "Pork, fresh, loin, blade  chop , boneless, separable lean only, boneless, cooked, broiled",
+        "saltmetric": "mg",
+        "foodweight": "3",
+        "metric": "oz"
+    },
+    {
+        "value": "65",
+        "fooddescription": "Pork, fresh, loin, blade  chop or roasts , boneless, separable lean only, raw",
+        "saltmetric": "mg",
+        "foodweight": "100",
+        "metric": "g"
+    }
+]
